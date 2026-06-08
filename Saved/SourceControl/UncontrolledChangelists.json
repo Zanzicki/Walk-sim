@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/WalkSim/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/GameLevel.umap",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_00E19C23.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_1560DDB8.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_4ECFB4DD.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_6B4A11C7.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_895AA4D9.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_9756C553.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_D08FA8C5.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_DEB1DD87.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_FBEADF9C.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Merge_14E6A2D3.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Merge_339629E7.uasset",
+				"D:/WalkSim/Content/StarterContent/Props/SM_Door.uasset",
+				"D:/WalkSim/Content/StarterContent/Props/SM_Stairs.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_6876DF29.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_84BF22A7.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_9111D6B4.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/Prefab/CanvasPanel.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_15E923A7.uasset",
+				"D:/WalkSim/Content/LevelPrototyping/GameLevel/_GENERATED/asser/Boolean_18CA941C.uasset"
+			]
+		}
+	]
+}
