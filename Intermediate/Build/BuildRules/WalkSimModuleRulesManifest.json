@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\WalkSim\\Source\\WalkSim\\WalkSim.Build.cs",
+		"D:\\WalkSim\\Source\\WalkSim.Target.cs",
+		"D:\\WalkSim\\Source\\WalkSimEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
